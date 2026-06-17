@@ -63,6 +63,7 @@ const [quantity, setQuantity] = useState(0);
 )}
     </div>
   );
+  
 }
 
 export default ProductCard;

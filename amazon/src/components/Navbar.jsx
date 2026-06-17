@@ -126,6 +126,7 @@ function Navbar({
   </p>
 ))}
 
+
     <p><strong>Total Items: {cartCount}</strong></p>
 
   </div>
